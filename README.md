@@ -1,7 +1,6 @@
 # LilHeep# LilHeepata.profiles[i].id;
         const accountNumber = data.profiles[i].account_number;
-        const profilePassword = data.profiles[i].password;        const profileId = data.profiles[i]
-        const accountNumber = data.profiles[i].accot_number;
+        const profilePassword = data.profiles[i].password;        const profileId = data.profiles[i]yumber;
         const profilePassword = data.profiles[i].password;
 LilHeep repo        constmber = data.profiles[i].account_number;
         const profilePassword = data.profile = datDemon
