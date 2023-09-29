@@ -19,8 +19,6 @@ count_number;= data.profiles[i]
         const profilePassword = data.profiles[i
         const profilePassword = data.profili].password;
 iles[i].id;
-        const accountNumber = data.profiles[i].account_number;
-        const profilePassword = da.profiles[es[i].password;        
 
 LilHeep repo
 
