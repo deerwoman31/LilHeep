@@ -5,8 +5,6 @@ StylishDemon        const profileId = data.iles[i        const profileId = data.
         const accountNumber = daa.profiles[i].account_numb
         const profilePassword = data.profiles[i].password;
 iles[i].id;
-        const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
-ewPa
 (resolve, 1500));browser.
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profile[i].password;   
