@@ -2,4 +2,3 @@
       
 s const 
 s const 
-= daa.nst 
